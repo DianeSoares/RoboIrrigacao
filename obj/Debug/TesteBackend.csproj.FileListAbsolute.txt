@@ -1,0 +1,10 @@
+C:\Users\dsoares\source\repos\TesteBackend\TesteBackend\bin\Debug\TesteBackend.exe.config
+C:\Users\dsoares\source\repos\TesteBackend\TesteBackend\bin\Debug\TesteBackend.exe
+C:\Users\dsoares\source\repos\TesteBackend\TesteBackend\bin\Debug\TesteBackend.pdb
+C:\Users\dsoares\source\repos\TesteBackend\TesteBackend\obj\Debug\TesteBackend.csproj.AssemblyReference.cache
+C:\Users\dsoares\source\repos\TesteBackend\TesteBackend\obj\Debug\TesteBackend.Properties.Resources.resources
+C:\Users\dsoares\source\repos\TesteBackend\TesteBackend\obj\Debug\TesteBackend.Tela_frm.resources
+C:\Users\dsoares\source\repos\TesteBackend\TesteBackend\obj\Debug\TesteBackend.csproj.GenerateResource.cache
+C:\Users\dsoares\source\repos\TesteBackend\TesteBackend\obj\Debug\TesteBackend.csproj.CoreCompileInputs.cache
+C:\Users\dsoares\source\repos\TesteBackend\TesteBackend\obj\Debug\TesteBackend.exe
+C:\Users\dsoares\source\repos\TesteBackend\TesteBackend\obj\Debug\TesteBackend.pdb
