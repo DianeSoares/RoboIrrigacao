@@ -1,4 +1,4 @@
-# RoboIrrigacao
+# Robô de Irrigação
 
 Para acessar o executável, abrir a seguinte pasta bin/Debug/ e executar o TesteBackend.exe
 
